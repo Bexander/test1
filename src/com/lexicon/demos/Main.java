@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bexy {
+public class Main {
 
 
     static boolean performed = false;
