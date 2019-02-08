@@ -1,3 +1,5 @@
+package com.lexicon.demos;
+
 import java.util.Scanner;
 
 public class Main {
